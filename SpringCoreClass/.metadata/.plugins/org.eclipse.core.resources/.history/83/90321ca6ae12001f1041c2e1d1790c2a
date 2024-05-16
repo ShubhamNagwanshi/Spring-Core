@@ -1,0 +1,9 @@
+package com.rays.instance;
+
+public class ServiceLocator {
+	
+	private static ServiceLocator instance() {
+		
+	}
+
+}
