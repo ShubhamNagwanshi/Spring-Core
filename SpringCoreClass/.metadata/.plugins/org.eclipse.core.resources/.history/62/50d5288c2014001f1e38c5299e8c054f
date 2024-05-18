@@ -1,0 +1,5 @@
+package com.rays.practice2;
+
+public interface Bottle {
+
+}

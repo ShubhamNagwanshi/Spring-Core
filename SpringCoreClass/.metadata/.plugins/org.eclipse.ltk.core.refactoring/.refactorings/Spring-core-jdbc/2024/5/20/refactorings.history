@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ray.test&apos; to &apos;com.rays.test&apos;&#x0D;&#x0A;- Original project: &apos;Spring-core-jdbc&apos;&#x0D;&#x0A;- Original element: &apos;Spring-core-jdbc/src/main/java/com.ray.test&apos;&#x0D;&#x0A;- Renamed element: &apos;Spring-core-jdbc/src/main/java/com.rays.test&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ray.test&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.ray.test" name="com.rays.test" qualified="false" references="true" stamp="1715954902511" textual="false" version="1.0"/>
+</session>

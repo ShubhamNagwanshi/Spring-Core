@@ -1,0 +1,6 @@
+package com.rays.autowire.byType;
+
+public interface UserService {
+	public void add();
+
+}

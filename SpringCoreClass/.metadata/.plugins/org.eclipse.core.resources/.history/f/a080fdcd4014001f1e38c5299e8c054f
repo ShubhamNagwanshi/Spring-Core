@@ -1,0 +1,9 @@
+package com.rays.dao;
+
+import com.rays.dto.UserDTO;
+
+public interface UserDaoInt {
+	public void add(UserDTO dto);
+	public void update(UserDTO dto);
+
+}

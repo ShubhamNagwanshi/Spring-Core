@@ -1,10 +1,5 @@
 INDEX VERSION 1.131+C:\Users\Lenovo\OneDrive\Desktop\SpringCoreClass\.metadata\.plugins\org.eclipse.jdt.core
-3758057634.index
-2700326009.index
-4095555176.index
-1749369185.index
+499776667.index
+2048864360.index
+2682922680.index
 3102715728.index
-1024446143.index
-3154704091.index
-414322597.index
-83560363.index

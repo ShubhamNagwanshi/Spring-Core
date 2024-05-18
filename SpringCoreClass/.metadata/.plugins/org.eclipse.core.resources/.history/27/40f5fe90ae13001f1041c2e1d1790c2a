@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean id="shubhamService" class="com.rays.autowire.practice.ShubhamService" autowire="byName"></bean>
+<bean id="shubh" class="com.rays.autowire.practice.ShubhamImp"></bean>
+
+</beans>

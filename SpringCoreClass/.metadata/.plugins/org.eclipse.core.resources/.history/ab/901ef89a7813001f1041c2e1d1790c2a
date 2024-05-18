@@ -1,0 +1,5 @@
+package com.rays.autowire.byName;
+
+public class UserDaoImp {
+
+}
