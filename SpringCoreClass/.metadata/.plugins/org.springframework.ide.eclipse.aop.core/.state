@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="SpringCore"/>
+<aop-project name="spring-aop"/>
+<aop-project name="Spring-hibernate"/>
+<aop-project name="Spring-JDBC"/>
+<aop-project name="Spring-jdbc-withoutannotation"/>
+<aop-project name="Spring-core-jdbc"/>
 </aop-reference-model>

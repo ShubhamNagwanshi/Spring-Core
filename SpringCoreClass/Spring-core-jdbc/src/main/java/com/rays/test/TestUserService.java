@@ -26,7 +26,7 @@ public class TestUserService {
 // test.testDelete();
 // test.testFindByPk();
 // test.testAuth();
-// test.testSearch();
+		test.testSearch();
 	}
 
 	public void testAdd() {
@@ -39,10 +39,11 @@ public class TestUserService {
 		long pk = service.add(dto);
 		System.out.println("Data Inserted... pk = " + pk);
 	}
+
 	public void testUpdate() {
 		UserDTO dto = new UserDTO();
 		dto.setId(1);
-		dto.setFirstName("Shubham");
+		dto.setFirstName("Shubh");
 		dto.setLastName("Nagwanshi");
 		dto.setLogin("shubham@gmail.com");
 		dto.setPassword("pass1234");

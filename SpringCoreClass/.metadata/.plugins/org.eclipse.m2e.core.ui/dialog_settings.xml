@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Lenovo\OneDrive\Desktop\SpringCoreClass\spring-aop"/>
+			<item value="C:\Users\Lenovo\OneDrive\Desktop\SpringCoreClass\Spring-core-jdbc"/>
+			<item value="C:\Users\Lenovo\OneDrive\Desktop\SpringCoreClass\SpringCore"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -48,6 +51,12 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="CorePractice"/>
+			<item value="Spring-jdbc-withoutannotation"/>
+			<item value="spring-aop"/>
+			<item value="Spring-JDBC"/>
+			<item value="Spring-hibernate"/>
+			<item value="Spring-core-jdbc"/>
 			<item value="SpringCore"/>
 		</list>
 		<list key="projectNameTemplate">
