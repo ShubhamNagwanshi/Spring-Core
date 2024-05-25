@@ -1,0 +1,21 @@
+package com.rays.numberseries;
+
+public class AverageTest {
+	public static void main(String[] args) {
+		int num = 10;
+		int count = 0;
+		int sum = 0;
+		
+		for (int i = 1; i < num; i++) {
+			if(i%2==1) {
+				sum = sum +1;
+				count++;
+				
+			}
+			
+		}
+		int Avg = sum/count;
+		System.out.println(Avg);
+	}
+
+}
